@@ -1,0 +1,8 @@
+use trajesdb
+
+show tables
+select * from roupa_utensilios;
+select * from tipo_roupa;
+
+describe tipo_roupa
+describe roupa_utensilios;
